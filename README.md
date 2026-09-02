@@ -1,4 +1,4 @@
-# Program Pulse Block Streaming XYZ-angle + Servo
+# Program Sistem Penataan Objek
 
 Program ini memakai GUI pembuat trajektori dari Segment Planner, tetapi cara
 eksekusinya berbeda. Python membentuk timeline blok berisi perubahan pulsa X/Y
