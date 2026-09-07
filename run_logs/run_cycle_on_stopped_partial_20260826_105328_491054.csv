@@ -1,2 +1,0 @@
-run_started_at,run_finished_at,run_status,cycle_mode,total_time_s,total_distance_mm,segment_index,queued_at,done_at,segment_status,pass_label,mode,action_label,start_x_mm,start_y_mm,start_z_mm,end_x_mm,end_y_mm,end_z_mm,dx_mm,dy_mm,dz_mm,distance_mm,arc_center_x_mm,arc_center_y_mm,arc_sweep_deg
-2026-08-26T10:53:28.491,2026-08-26T10:53:38.981,stopped_partial,on,10.491995,0.066667,1,2026-08-26T10:53:29.140,2026-08-26T10:53:32.103,done,awal,LINE,,75.000000,50.000000,76.933333,75.000000,50.000000,77.000000,0.000000,0.000000,0.066667,0.066667,,,
